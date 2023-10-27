@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Le Vigne di Eli Etna Rosso 2012",
+        "grape": NaN,
+        "region": "Italy",
+        "variety": "Red Wine",
+        "rating": 91.0,
+        "notes": "This wine displays an intense and bright ruby red color with red fruit aromas and mineral notes. Full in the mouth, similar to Burgundy wines, elegant and fresh. "
+    },
+    {
+        "name": "Leone de Castris Salice Salentino Riserva 2007",
+        "grape": NaN,
+        "region": "Italy",
+        "variety": "Red Wine",
+        "rating": 91.0,
+        "notes": "Salice Salentino Riserva is a wine of intense red color with garnet colored hints, made of Negroamaro and Malvasia Nera. On the nose, fruity sensations of blackberry and black cherry, and notes of basil and sweet spices due to the refinement in oak barrels. In the mouth it is smooth and balanced with strong but never intrusive tannis and a long lasting finish."
+    },
+    {
+        "name": "Les Cretes Coteau La Tour 2008",
+        "grape": NaN,
+        "region": "Italy",
+        "variety": "Red Wine",
+        "rating": 93.0,
+        "notes": "Intense and complex with the characteristic spiciness of syrah, and a lush, velvety finish."
+    },
+    {
+        "name": "Les Cretes Valle d'Aosta Chardonnay 2010",
+        "grape": NaN,
+        "region": "Italy",
+        "variety": "White Wine",
+        "rating": 92.0,
+        "notes": "Valle d'Aosta Chardonnay is a lovely yellow. The nose is delicately floral with hints of banana and a bit of plum. On the palate, the wine is soft, fruity and mineral. This Chardonnay from this region is grown with excellent results, giving a wine with exuberant fruit flavor, combined with a pure expression of the \"terroir\" of the mountain. "
+    }
+]
